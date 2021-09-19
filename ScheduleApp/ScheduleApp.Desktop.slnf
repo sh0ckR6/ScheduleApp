@@ -1,0 +1,11 @@
+﻿{
+  "solution": {
+    "path": "ScheduleApp.sln",
+    "projects": [
+      "ScheduleApp.Desktop\\ScheduleApp.Desktop.csproj",
+      "ScheduleApp.Game\\ScheduleApp.Game.csproj",
+      "ScheduleApp.Game.Tests\\ScheduleApp.Game.Tests.csproj",
+      "ScheduleApp.Resources\\ScheduleApp.Resources.csproj"
+    ]
+  }
+}
